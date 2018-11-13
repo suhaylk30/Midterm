@@ -85,14 +85,10 @@ body {
 .displayInline {
     display: inline;
 }
+.wrapPadRight {
+    padding-right: 31px;
 
-.sqrPadding {
-    padding-left: 31px;
-    padding-right: 31px;
-}
-.wrapRightPad {
-    padding-right: 31px;
-}
+
 .floatLeft {
     float: left;
 }
@@ -143,6 +139,3 @@ body {
 .alignCenter {
     text-align: center;
 }
-
-
-
