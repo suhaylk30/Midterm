@@ -1,0 +1,148 @@
+body {
+    overflow: scroll;
+
+}
+
+#wrapper {
+    width: 960px;
+}
+#topPage {
+    height: 130px;
+    line-height: 130px;
+}
+#logo {
+    height: 130px;
+}
+
+#sideCard {
+    padding: 18px;
+}
+#banner {
+    background-image: url("../images/happy.jpg");
+    background-size: cover;
+    height: 367px;
+    position: relative;
+}
+#main {
+    margin-top: 31px;
+}
+#panel1, #panel2, #panel3 {
+    width: 320px;
+}
+#footer {
+    height: 100px;
+    line-height: 100px;
+}
+
+#bannerOnPic h1 {
+    position: relative;
+    top: 110px;
+    left: 100px;
+}
+.workMargin {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+.workText {
+    margin-left: 31px;
+}
+.panelMargin {
+    margin-left: 62px;
+    margin-right: 31px;
+}
+.panelOlMargin {
+    margin-left: 31px;
+    margin-right: 31px;
+}
+
+.panelHeadingMargin {
+    margin-left:31px;
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+.topMargin {
+    margin-top: 31px;
+}
+
+.fullPercent {
+    width: 100%;
+    height: 100%;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.border {
+    border: 1px black;
+}
+
+.mCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.displayInline {
+    display: inline;
+}
+
+.sqrPadding {
+    padding-left: 31px;
+    padding-right: 31px;
+}
+.wrapRightPad {
+    padding-right: 31px;
+}
+.floatLeft {
+    float: left;
+}
+
+.marginClear {
+    margin: 0px;
+}
+
+.padClear {
+    padding: 0px;
+}
+
+.clearFix {
+    clear: both;
+}
+.grSmallPadding {
+    padding-left: 17px;
+    padding-right: 17px;
+}
+.padG {
+    width: 329px;
+}
+.padGBig {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.bigG {
+    width: 600px;
+}
+
+.fontG {
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.myText {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.alignRight {
+    text-align: right;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+
+
